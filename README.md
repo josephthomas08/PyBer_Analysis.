@@ -23,6 +23,13 @@ As Expected the number of rides in the urban cities were the highest at 1625, fo
 
 Pie chart of the same gives us a better overivew of how the rides are ditributed with the three types.
 
+
+
+![Fig6](https://user-images.githubusercontent.com/75267605/106387424-a0006200-63a7-11eb-852e-f3893ca8ada0.png)
+
+Pie chart showing the fares distribution amont the three city type:
+
+
 ![Fig5](https://user-images.githubusercontent.com/75267605/106387338-5d3e8a00-63a7-11eb-8c61-3bf4408f39f9.png)
 
 
