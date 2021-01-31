@@ -39,14 +39,20 @@ As Expected the number of rides in the urban cities were the highest at 1625, fo
 
 <img width="511" alt="Total drive for each city type" src="https://user-images.githubusercontent.com/75267605/106387639-a511e100-63a8-11eb-9f69-73df8bfbfa64.png">
 
-There number of drivers in urban cities compared to suburban and rural cities was found much higher. The count evaluated was  2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities. Again, the figure above is self explantory and shows  the significance of drivers in urban cities during the five month period of Jan to May 2019.
+
 
 
 ### Pyber summary DataFrame showing Total drivers, rides, fare/ride
 
 <img width="937" alt="PyBer summary DataFrame format" src="https://user-images.githubusercontent.com/75267605/106387732-1c477500-63a9-11eb-8142-b4b202b0a411.png">
 
+The number of drivers in urban cities compared to suburban and rural cities was found much higher. The count evaluated was  2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities. Again, the figure above is self explantory and shows  the significance of drivers in urban cities during the five month period of Jan to May 2019.
 
+
+### Pyber summary based on fares for three city type 
+
+
+In terms of costs, it appears that riders in rural cities pay on average almost $10 more for PyBer than riders in urban cities. The average fare per ride is about $35 in rural cities whereas the average fare per ride is about $25 in urban cities. Suburban cities' average fare per ride falls just in between - at about $31. While it may not be good news for riders in rural cities, it is a better market for drivers in this type of city. The average fare per driver is about $55 in rural cities, whereas the average fare per driver is about $17 in urban cities. Suburban cities' average fare per driver is about $40.
 
 
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
