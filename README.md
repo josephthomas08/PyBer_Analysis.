@@ -18,4 +18,12 @@ Omar is my Manager and has been a grea support .
 ## The total number of rides for each city type is retrieved. 
 
 <img width="355" alt="total rides for each city type" src="https://user-images.githubusercontent.com/75267605/106387150-65e29080-63a6-11eb-893c-5f1413e66a6e.png">
+
+As Expected the number of rides in the urban cities were the highest at 1625, followed by Sububran at 635 and lowest in rural at 125.
+
+Pie chart of the same gives us a better overivew of how the rides are ditributed with the three types.
+
+![Fig5](https://user-images.githubusercontent.com/75267605/106387338-5d3e8a00-63a7-11eb-8c61-3bf4408f39f9.png)
+
+
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
