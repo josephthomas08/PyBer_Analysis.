@@ -17,24 +17,32 @@ Omar is my Manager and has been a grea support .
 
 ## The total number of rides for each city type is retrieved. 
 
-<img width="355" alt="total rides for each city type" src="https://user-images.githubusercontent.com/75267605/106387150-65e29080-63a6-11eb-893c-5f1413e66a6e.png">
-
-As Expected the number of rides in the urban cities were the highest at 1625, followed by Sububran at 635 and lowest in rural at 125.
 
 ### Pie chart of the same gives us a better overivew of how the rides are ditributed with the three types.
 
 
+<img width="355" alt="total rides for each city type" src="https://user-images.githubusercontent.com/75267605/106387150-65e29080-63a6-11eb-893c-5f1413e66a6e.png">
+
+As Expected the number of rides in the urban cities were the highest at 1625, followed by Sububran at 635 and lowest in rural at 125.
+
+
 
 ![Fig6](https://user-images.githubusercontent.com/75267605/106387424-a0006200-63a7-11eb-852e-f3893ca8ada0.png)
+
 
 ### Pie chart showing the fares distribution amount the three city type:
 
 ![Fig5](https://user-images.githubusercontent.com/75267605/106387480-f79ecd80-63a7-11eb-9068-5724e4cbff67.png)
 
 
+The total fares for urban is higher than both Suburabn and RUral put together. The total inched closer to $40,000 while it was approx $19,000 and $4000 in suburban and rural city type.The main revenue generated was from the Urban city type.
+
+
 ### Pie chart showing Drivers by city type
 
 ![Fig7](https://user-images.githubusercontent.com/75267605/106387513-18672300-63a8-11eb-8966-48fed570c705.png)
+
+The number of drivers in urban cities compared to suburban and rural cities was found much higher. The count evaluated was  2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities. Again, the figure above is self explantory and shows  the significance of drivers in urban cities during the five month period of Jan to May 2019.
 
 
 <img width="511" alt="Total drive for each city type" src="https://user-images.githubusercontent.com/75267605/106387639-a511e100-63a8-11eb-9f69-73df8bfbfa64.png">
@@ -46,13 +54,33 @@ As Expected the number of rides in the urban cities were the highest at 1625, fo
 
 <img width="937" alt="PyBer summary DataFrame format" src="https://user-images.githubusercontent.com/75267605/106387732-1c477500-63a9-11eb-8142-b4b202b0a411.png">
 
-The number of drivers in urban cities compared to suburban and rural cities was found much higher. The count evaluated was  2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities. Again, the figure above is self explantory and shows  the significance of drivers in urban cities during the five month period of Jan to May 2019.
+
 
 
 ### Pyber summary based on fares for three city type 
 
 
-In terms of costs, it appears that riders in rural cities pay on average almost $10 more for PyBer than riders in urban cities. The average fare per ride is about $35 in rural cities whereas the average fare per ride is about $25 in urban cities. Suburban cities' average fare per ride falls just in between - at about $31. While it may not be good news for riders in rural cities, it is a better market for drivers in this type of city. The average fare per driver is about $55 in rural cities, whereas the average fare per driver is about $17 in urban cities. Suburban cities' average fare per driver is about $40.
+As far as costs are concerned we see that riders in rural cities pay an average of 10$ more for pyber rides compared to urban city type. The mean fare per ride in Rural setup is $35 per ride, while the average fre per ride in Urban setup is 25$. Suburba see a mean fare of 31 $ per ride.
+
+The drivers enjoy a better rate uin rural setup with a avaerage of 55$ per ride but the drawback being lesser rides in the setup.
+
+### Total Fare by city type 
 
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+![PyBer_fare_summary](https://user-images.githubusercontent.com/75267605/106393363-a94bf780-63c4-11eb-8562-35371cfb760e.png)
+
+1. The resample data frame measured through the Total fare by city type is as pictured above.
+2. The yellow graph provides us an oveirew of the fare flctuations between $1600 to $2300 during Jan 2019 to May 2019, for urban city setup . 
+3. The Red graph gives us information that fares fluctates between 700$ & 1300$, while the Rural setup blue graph hovers around 300$ mark.
+
+
+
+
+## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+1. It is noted that more drivers are available in Urban setup compared ot Suburban adn Rural setup.
+2. The end result of such driver concentration results in higher revenue genration in Urban comared to other areas.
+3. The other result is number of rideshares are consderably higher in Urban setup compared to suburban and rural setup.
+4. The per rdier cost for using pyber seems to be much higher in rural setup there by chances of consderable discouragment of usage of Pyber app for rural setup.
+5. The potetnial increase of drivers being encouraged to move from Urban to suburban rides by additional revenue generation for providing eatery services can generate more revenue and traffic (rides).
+6. The incentive model should be reviewd by Pyber to provide alternate services can help pyber to increase revenue in three city types.
