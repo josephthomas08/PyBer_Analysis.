@@ -74,6 +74,10 @@ The drivers enjoy a better rate uin rural setup with a avaerage of 55$ per ride 
 3. The Red graph gives us information that fares fluctates between 700$ & 1300$, while the Rural setup blue graph hovers around 300$ mark.
 
 
+### The resampled DataFrame in Step 15, confirm that your DataFrame looks like this:
+
+<img width="326" alt="Screen Shot 2021-01-31 at 8 49 38 AM" src="https://user-images.githubusercontent.com/75267605/106393765-f0d38300-63c6-11eb-8700-100dfdb8de46.png">
+
 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
