@@ -1,15 +1,16 @@
 # PyBer_Analysis.
-analyze all the Ride share Data for PyBer positioning 
+analyze all the Rideshare Data for PyBer positioning 
 
 # Overview of the analysis: Explain the purpose of the new analysis.
 
-The project for me as Data analyst of new ride share company is to analyze 5 month of ride share data of Company Pyber which is valued at $ 2.3 Billion. The project reqirement is provide CEO V-Issualize with a compelling visualization presentation with Data Dashboards for :
+As a Data analyst of a new rideshare company, the project analyzes five months of rideshare data of Company Pyber, which is valued at $ 2.3 Billion. The project requirement is to provide CEO V-Issualize with a compelling visualization presentation with Data Dashboards for :
 
 1. A ride-sharing summary DataFrame by city type
 2. A multiple-line chart of total fares for each city type
 
-The project becomes more challenging as we all know that CEO has been herself a seasoned Data Analyist. 
-Omar is my Manager and has been a grea support .
+The project becomes more challenging as we all know that CEO has been herself a seasoned Data Analyst. 
+Omar is my Manager and has been a great support.
+
 
 
 
@@ -60,9 +61,10 @@ The number of drivers in urban cities compared to suburban and rural cities was 
 ### Pyber summary based on fares for three city type 
 
 
-As far as costs are concerned we see that riders in rural cities pay an average of 10$ more for pyber rides compared to urban city type. The mean fare per ride in Rural setup is $35 per ride, while the average fre per ride in Urban setup is 25$. Suburba see a mean fare of 31 $ per ride.
+As far as costs are concerned, we see that riders in rural cities pay an average of 10$ more for pyber rides than the urban city type. The mean fare per ride in Rural setup is $35 per ride, while the average fare per ride in Urban setup is 25$. Suburban see a mean fare of 31 $ per ride.
 
-The drivers enjoy a better rate uin rural setup with a avaerage of 55$ per ride but the drawback being lesser rides in the setup.
+The drivers enjoy a better rate in the rural setup with an average of 55$ per ride but the drawback being fewer rides.
+
 
 ### Total Fare by city type 
 
