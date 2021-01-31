@@ -85,6 +85,6 @@ The drivers enjoy a better rate uin rural setup with a avaerage of 55$ per ride 
 1. It is noted that more drivers are available in Urban setup compared ot Suburban adn Rural setup.
 2. The end result of such driver concentration results in higher revenue genration in Urban comared to other areas.
 3. The other result is number of rideshares are consderably higher in Urban setup compared to suburban and rural setup.
-4. The per rdier cost for using pyber seems to be much higher in rural setup there by chances of consderable discouragment of usage of Pyber app for rural setup.
+4. The rider cost for using pyber seems to be much higher in rural setup there by chances of consderable discouragment of usage of Pyber app for rural setup.
 5. The potetnial increase of drivers being encouraged to move from Urban to suburban rides by additional revenue generation for providing eatery services can generate more revenue and traffic (rides).
 6. The incentive model should be reviewd by Pyber to provide alternate services can help pyber to increase revenue in three city types.
