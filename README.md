@@ -90,3 +90,4 @@ The drivers enjoy a better rate in the rural setup with an average of 55$ per ri
 4. The rider cost for using pyber seems to be much higher in rural setup there by chances of consderable discouragment of usage of Pyber app for rural setup.
 5. The potetnial increase of drivers being encouraged to move from Urban to suburban rides by additional revenue generation for providing eatery services can generate more revenue and traffic (rides).
 6. The incentive model should be reviewd by Pyber to provide alternate services can help pyber to increase revenue in three city types.
+7. Future option to grow pyber business in three cities, more so in Suburban and Rural city type will be to look into possible tie up with large retail giants like Amazon, Walmart. cotsco and others  to use pyber service for delivering products, returns, and bring additional income for rural drivers and clients.
