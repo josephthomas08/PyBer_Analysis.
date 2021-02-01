@@ -82,7 +82,7 @@ The drivers enjoy a better rate in the rural setup with an average of 55$ per ri
 
 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary: Results and Recommendations 
 
 1. It is noted that more drivers are available in Urban setup compared ot Suburban adn Rural setup.
 2. The end result of such driver concentration results in higher revenue genration in Urban comared to other areas.
